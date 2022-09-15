@@ -1,5 +1,6 @@
 // This array contains the coordinates for all bus stops between MIT and Harvard
 const busStops = [
+  [-80.139198, 25.793449],
   [-71.093729, 42.359244],
   [-71.094915, 42.360175],
   [-71.0958, 42.360698],
