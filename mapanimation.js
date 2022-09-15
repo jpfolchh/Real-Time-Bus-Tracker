@@ -22,7 +22,7 @@ mapboxgl.accessToken =
 let map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/mapbox/streets-v11',
-  center: [-71.104081, 42.365554],
+  center: [-25.7907, 80.1300],
   zoom: 14,
 });
 
