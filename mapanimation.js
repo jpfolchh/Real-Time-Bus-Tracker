@@ -28,7 +28,7 @@ let map = new mapboxgl.Map({
 });
 
 // TODO: add a marker to the map
-let marker = new mapboxgl.Marker().setLngLat([-71.092761, 42.357575]).addTo(map);
+let marker = new mapboxgl.Marker().setLngLat([-80.139198, 25.793449]).addTo(map);
 
 // counter here represents the index of the current bus stop
 let counter = 0;
