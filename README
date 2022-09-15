@@ -1,0 +1,10 @@
+#Real Time Bus Tracker
+
+This project will track a bus route in real time and update the center of the map to correspond with the current location of the bus.
+
+How to Run: This is information someone would use to run your project on their machine.
+
+Roadmap of future improvements:
+Working to include a frop down menu for a list of buses available to follow.
+
+MIT license 
