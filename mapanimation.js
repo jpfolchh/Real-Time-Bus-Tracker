@@ -38,9 +38,10 @@ function move() {
   setTimeout(() => {
     if (counter >= busStops.length) return;
     marker.setLngLat(busStops[counter]);
+    map.center.setLngLat(busStops[counter]);
     counter++;
     move();
-  }, 1000);
+  }, 2000);
 }
 
 // Do not edit code past this point
