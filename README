@@ -1,10 +1,13 @@
 #Real Time Bus Tracker
 
-This project will track a bus route in real time and update the center of the map to correspond with the current location of the bus.
+## About the Project:
+This project will track a bus route in real time and update the map to correspond with the current location of the bus.
 
-How to Run: This is information someone would use to run your project on their machine.
+## How to Run:
+To run this project on your machine, simply copy the files contained within this repository to your machine, within the same folder/directory. Once on your machine, open the index.html file on any modern browser and then click on the buttom at the top left hand corner of the Page. This will make show the bus stops along the route.
 
-Roadmap of future improvements:
-Working to include a frop down menu for a list of buses available to follow.
+## Future Improvements:
+Future improvements to this project include a pulldown of available bus routes and an option to have the center of the map be updated to correspond with the current bus stop along the route.
 
-MIT license 
+## License:
+MIT Class Project. Please refer to the License file within this repository for further details.
