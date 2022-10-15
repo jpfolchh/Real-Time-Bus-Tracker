@@ -1,4 +1,4 @@
-#Real Time Bus Tracker
+# Real Time Bus Tracker
 
 ## About the Project:
 This project will track a bus route in real time and update the map to correspond with the current location of the bus.
